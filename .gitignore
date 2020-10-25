@@ -1,14 +1,14 @@
 #ignore these files
-/less/
-/metadata/
-/scss/
-/sprites/
-/svgs/
-/webfonts/
-/css/*
-/js/
+/public/less/
+/public/metadata/
+/public/scss/
+/public/sprites/
+/public/svgs/
+/public/webfonts/
+/public/css/*
+/public/js/
 /node_modules/
 #do not ignore
-!/css/manual-bootstrap.css
-!/css/ltd*
+!/public/css/manual-bootstrap.css
+!/public/css/ltd*
 /ignore-files/
